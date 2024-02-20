@@ -21,6 +21,7 @@
     "standard": "^14.3.4"
   },
   "dependencies": {
+    "axios": "1.12.2",
     "corsify": "^2.1.0",
     "cuid": "^2.1.8",
     "dotenv": "^8.2.0",
@@ -31,6 +32,8 @@
     "redis": "^3.0.2",
     "req-logger": "^2.0.0",
     "send-data": "^8.0.0",
+    "socket.io": "4.8.1",
+    "socket.io-client": "4.8.1",
     "supertest": "^6.3.3"
   },
   "repository": {
